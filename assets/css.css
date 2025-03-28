@@ -1,0 +1,53 @@
+		.jarak{
+			border: red 1px solid;
+			padding: 10px
+		}
+		.header{
+			font-size: 3em;
+			font: Arial	;
+			background-color: black;
+			color: white;
+			padding: 30px;
+			text-align: center;
+			@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+		}
+			
+		.sidebar{
+			background-color: #e0916c;
+			color: black;
+			text-align: center-left;
+			padding: 10px;
+			width: 20%;
+			height: 300px;
+			float: left;
+		}
+			
+		.main{
+			background-color: white;
+			color: black;
+			text-align: Left;
+			width: 75%;
+			height: 300px;
+			padding: 10px;
+			float: left;
+		}
+		p{
+			width: 95%;
+		}
+		a{
+			color: white;
+			text-decoration: none;
+		}
+		
+		a:hover{
+			color: red;
+			
+		}
+			
+		.foot{
+			background-color: black;
+			color: white;
+			text-align:center;
+			padding: 30px;
+			clear: both;
+		}
